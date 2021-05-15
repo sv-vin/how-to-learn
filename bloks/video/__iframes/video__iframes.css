@@ -1,5 +1,5 @@
 .video__iframes {
-    display: flex;
-    margin-top: 50px;
-    z-index: 10;
-  }
+  display: flex;
+  margin-top: 50px;
+  z-index: 10;
+}
